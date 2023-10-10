@@ -2,16 +2,16 @@
   "name": "my-js-pet-proj",
   "version": "1.0.0",
   "description": "helper",
-  "homepage": "https://YVolkov404.github.io/dist",
+  "homepage": "https://YVolkov404.github.io/_ass-js-proj",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /dist/"
+    "build": "parcel build src/*.html --public-url /_ass-js-proj/"
   },
   "author": "fantom_ass <sir.volkov@outlook.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YVolkov404/dist/html-issues"
+    "url": "https://github.com/YVolkov404/_ass-js-proj/html-issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.0",
